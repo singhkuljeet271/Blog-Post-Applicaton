@@ -1,0 +1,11 @@
+.ico {
+  height: 40px; /*height of icon */
+  width: 40px;
+}
+.incorrect {
+  color: "red";
+}
+.drop {
+  height: 200px; /*height of icon */
+  width: 200px;
+}
